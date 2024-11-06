@@ -1,0 +1,11 @@
+spec:
+  type: openapi
+  lifecycle: production
+  owner: my_team
+  system: system
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: my_app_api
+  namespace: default
+  title: API

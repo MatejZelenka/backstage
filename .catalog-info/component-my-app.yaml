@@ -1,0 +1,17 @@
+spec:
+  type: website
+  lifecycle: experimental
+  owner: my_team
+  system: system
+  consumesApis:
+    - api:default/my_app_api
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: my_app
+  namespace: default
+  title: MyApp
+  annotations:
+  links:
+    - url: https://youtube.com
+      title: Youtube
