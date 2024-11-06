@@ -5,14 +5,14 @@ spec:
   system: system
   consumesApis:
     - api:default/my_app_api
+  dependsOn:
+    - component:default/component_javascript
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: my_app
   namespace: default
   title: MyApp
-  annotations:
-    backstage.io/techdocs-ref: "https://github.com/MatejZelenka/backstage/blob/main/packages/my-app/README.md"
   links:
     - url: https://youtube.com
       title: Youtube

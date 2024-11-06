@@ -1,0 +1,14 @@
+spec:
+  type: website
+  lifecycle: experimental
+  owner: my_team
+  system: system
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: component_javascript
+  namespace: default
+  title: JavaScript
+  links:
+    - url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+      title: MDN Javascript
