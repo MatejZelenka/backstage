@@ -12,6 +12,7 @@ metadata:
   namespace: default
   title: MyApp
   annotations:
+    backstage.io/techdocs-ref: https://github.com/MatejZelenka/backstage/blob/main/packages/my-app/README.md
   links:
     - url: https://youtube.com
       title: Youtube
