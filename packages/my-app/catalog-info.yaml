@@ -8,3 +8,5 @@ apiVersion: backstage.io/v1alpha1
 kind: Location
 metadata:
   name: org-data
+  annotations:
+    backstage.io/techdocs-ref: https://github.com/MatejZelenka/backstage/blob/main/packages/my-app/README.md
