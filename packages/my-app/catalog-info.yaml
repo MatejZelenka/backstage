@@ -2,7 +2,7 @@ spec:
   type: file
   targets:
     - ../../.catalog-info/component-my-app.yaml
-    - ../../.catalog-info/api-checkout.yaml
+    - ../../.catalog-info/my-app-api.yaml
   presence: required
 apiVersion: backstage.io/v1alpha1
 kind: Location
