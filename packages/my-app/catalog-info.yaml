@@ -1,5 +1,5 @@
 spec:
-  type: file
+  type: url
   targets:
     - ../../.catalog-info/component-my-app.yaml
     - ../../.catalog-info/my-app-api.yaml
