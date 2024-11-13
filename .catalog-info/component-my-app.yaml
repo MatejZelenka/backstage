@@ -17,4 +17,5 @@ metadata:
     - url: https://youtube.com
       title: Youtube
   annotations:
+    backstage.io/techdocs-ref: dir:./docs
     backstage.io/managed-by-origin-location: url:http://github.com/MatejZelenka/backstage/blob/main/packages/my-app/catalog-info.yaml
