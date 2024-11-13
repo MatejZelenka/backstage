@@ -1,5 +1,5 @@
 spec:
-  type: website
+  type: library
   lifecycle: experimental
   owner: my_team
   system: system

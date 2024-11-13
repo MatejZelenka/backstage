@@ -1,0 +1,5 @@
+site_name: 'Test docs'
+plugins:
+  - techdocs-core
+markdown_extensions:
+  - attr_list
