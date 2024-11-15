@@ -1,9 +1,9 @@
 spec:
   type: url
   targets:
-    - ../../.catalog-info/component-my-app.yaml
-    - ../../.catalog-info/component-javascript.yaml
-    - ../../.catalog-info/my-app-api.yaml
+    - .catalog-info/component-my-app.yaml
+    - .catalog-info/component-javascript.yaml
+    - .catalog-info/my-app-api.yaml
   presence: required
 apiVersion: backstage.io/v1alpha1
 kind: Location

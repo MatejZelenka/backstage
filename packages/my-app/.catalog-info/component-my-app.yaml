@@ -17,4 +17,4 @@ metadata:
     - url: https://youtube.com
       title: Youtube
   annotations:
-    backstage.io/techdocs-ref: url:http://github.com/MatejZelenka/backstage/blob/main/packages/my-app/docs
+    backstage.io/techdocs-ref: dir:../docs
