@@ -1,5 +1,7 @@
 site_name: 'Test docs'
 plugins:
   - techdocs-core
+nav:
+  - Home: index.md
 markdown_extensions:
   - attr_list
